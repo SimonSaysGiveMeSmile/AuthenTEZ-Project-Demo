@@ -1,4 +1,4 @@
-AuthenTEZ is an innovative solution developed by a team of University freshmen and one high school student. The project targets the widespread issue of counterfeit goods in sectors like pharmaceuticals, luxury goods, and sneakershoes. Leveraging Web3 technology, AuthenTEZ introduces an efficient authentication system that utilizes NFC chips and blockchain technology for secure product verification.
+AuthenTEZ targets the widespread issue of counterfeit goods in sectors like pharmaceuticals, luxury goods, and sneakershoes. Leveraging Web3 technology, AuthenTEZ introduces an efficient authentication system that utilizes NFC chips and blockchain technology for secure product verification.
 
 **Key Highlights:**
 
